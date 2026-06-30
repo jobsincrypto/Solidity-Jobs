@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Solidity Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 17:54 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 21:19 UTC</small></sub>
 
 Daily Solidity jobs curated by Jobs in Crypto.
 Updated daily by [Jobs in Crypto](https://jobsincrypto.xyz?utm_source=github&utm_medium=repo&utm_campaign=github-solidity-jobs).
